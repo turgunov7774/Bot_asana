@@ -1,0 +1,14 @@
+console.error ('Не удалось удалить сообщение:, err);
+}
+}
+}
+});
+client.initialize (;
+package-json
+json
+"name": "whatsapp-bot",
+"version": "1.0.0"
+"main": "index.js",
+"dependencies": {
+"whatsapp-web.js": "^1.20.0",
+"arcode-terminal": "^0.12.0"
